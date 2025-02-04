@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Comprar víveres",
+        "description": "Leche, huevos, pan y vegetales",
+        "completed": false
+    },
+    {
+        "title": "Terminar informe del proyecto",
+        "description": "Finalizar el reporte trimestral para el trabajo",
+        "completed": true
+    },
+    {
+        "title": "Llamar a mamá",
+        "description": "Felicitar por su cumpleaños",
+        "completed": false
+    },
+    {
+        "title": "Ir al gimnasio",
+        "description": "Sesión de cardio de 30 minutos",
+        "completed": false
+    },
+    {
+        "title": "Leer un libro",
+        "description": "Terminar la novela 'El paciente silencioso'",
+        "completed": true
+    }
+]
