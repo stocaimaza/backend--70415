@@ -7,9 +7,9 @@ import GoogleStrategy from "passport-google-oauth20";
 const initializePassport = () => {
     //Nueva estrategia de Google
     passport.use("google", new GoogleStrategy({
-        clientID:"206041578853-e60qp3gqebfrkasoc6puken6rd0sm34b.apps.googleusercontent.com",
-        clientSecret: "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",
-        callbackURL: "http://localhost:8080/api/sessions/googlecallback"
+        clientID:"111",
+        clientSecret: "11",
+        callbackURL: "4555"
     }, async (accessToken, refreshToken, profile, done) => {
         try {
             let user = await UserModel.findOne({email: profile._json.email})
