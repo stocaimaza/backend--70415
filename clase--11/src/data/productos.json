@@ -1,0 +1,12 @@
+[
+  {
+    "nombre": "Pelota de Basquet",
+    "categoria": "Deporte",
+    "precio": 1500
+  },
+  {
+    "nombre": "Soldaditos de plastico",
+    "categoria": "Juegos de Guerra",
+    "precio": 1000
+  }
+]
